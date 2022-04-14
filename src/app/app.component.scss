@@ -1,0 +1,18 @@
+.app-componente {
+    width: 70%;
+    margin: 0 auto;
+    padding: 10px;
+
+    table {
+        width: 100%;
+
+        td {
+            position: relative;
+            vertical-align: top;
+        }
+    }
+    .sticky {
+        position: sticky;
+        top: 60px;
+    }
+}
